@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab10</string>
+
+    <string name="textFieldOne"> No result </string>
+    <string name="textFieldTwo"> No result </string>
+    <string name="textFieldThree"> Repetitions: </string>
+    <string name="textFieldFour"> Pause [ms] : </string>
+
+    <string name="editorFieldOne"> 10 </string>
+    <string name="editorFieldTwo"> 100 </string>
+
+    <string name="buttonOne"> Start Task One </string>
+    <string name="buttonTwo"> Start Task Two </string>
+    <string name="buttonThree"> Start Task Three</string>
+    <string name="buttonFour"> Start Task Four </string>
+
+    <string name="workInProgress"> Work in Progress </string>
+
+</resources>
